@@ -1,2 +1,2 @@
 # python_docx_functions
-This contains custom python-docx functions used in automation word document creation.
+This project contains custom functions created with help of python-docx library to make word documents easily. Make sure to install python-docx library from requirements with sudo pip install -r requirements.txt command in terminal(https://pypi.org/project/python-docx/) as these functions use it. Copy this file next to your main.py file and import all functions into main and you are ready to go. Please check the comments above funtions to understand them more clearly.
